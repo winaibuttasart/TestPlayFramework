@@ -1,0 +1,11 @@
+hello=สวัสดี
+login=เข้าสู่ระบบ
+memberLogin=เข้าสู่ระบบสำหรับสมาชิก
+email=อีเมล
+password=รหัสผ่าน
+forgot=ลืม
+username=ชื่อผู้ใช้
+createYourAccount=สร้างบัญชีผู้ใช้
+backToHomePage=กลับสู่หน้าหลัก
+validEmail=อีเมลไม่ถูกต้อง
+validPassword=จำเป็นต้องใส่รหัสผ่าน

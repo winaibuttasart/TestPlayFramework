@@ -1,0 +1,11 @@
+hello=Hello
+login=Login
+memberLogin=Member Login
+email=Email
+password=Password
+forgot=Forgot
+username=Username
+createYourAccount=Create your Account
+backToHomePage=Back to home page
+validEmail=Valid email. Email is required: example@gmail.com
+validPassword=Password is required
